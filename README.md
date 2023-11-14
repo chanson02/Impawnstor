@@ -14,4 +14,4 @@ The purpose of this project is for us to explore our shared interest in the game
 
 
 ## Related Projects
-If you like this project, check out our chess engine at 
+If you like this project, check out our chess engine at https://github.com/chanson02/KnO3

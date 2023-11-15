@@ -1,7 +1,7 @@
 # Impawnstor - Chess Player Impostor Bot
 
-Welcome to the chess project repository. This project started as a collaborative effort between Cooper and Abe (founders) to explore and create an interesting application related to chess.
-At this moment, the project is very loosely defined. Hopefully, we can add more information here when we're ready to start programming!
+Welcome to the Impawnstor project repository. This project started as a collaborative effort between Cooper and Abe (founders) to explore and create an interesting application related to chess.
+At this moment, the project is very loosely defined. Hopefully, we can add more information when we're ready to start programming!
 
 
 ## Purpose
